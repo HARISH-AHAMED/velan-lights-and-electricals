@@ -13,7 +13,7 @@ import { ThemeProvider } from './context/ThemeContext';
 const App: React.FC = () => {
   return (
     <ThemeProvider>
-      <Router>
+      <Router basename="/velan-lights-and-electricals">
         <div className="min-h-screen flex flex-col font-['Inter'] bg-white dark:bg-black transition-colors duration-300">
           <CustomCursor />
           <WhatsAppButton />
