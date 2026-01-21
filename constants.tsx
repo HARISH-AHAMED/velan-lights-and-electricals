@@ -48,7 +48,7 @@ export const MOCK_PRODUCTS: Product[] = [
     name: 'Crystal Hanging Chandelier',
     category: 'chandeliers',
     price: 16000,
-    image: '/chandelier-gold-crystal.png',
+    image: 'images/chandelier-gold-crystal.png',
     isFeatured: true,
     description: 'Elegant multi-tier crystal hanging chandelier for grand halls. (Model: D8809-500x500)'
   },
@@ -57,7 +57,7 @@ export const MOCK_PRODUCTS: Product[] = [
     name: 'Modern Square LED Chandelier',
     category: 'chandeliers',
     price: 9500,
-    image: '/chandelier-square-led.png',
+    image: 'images/chandelier-square-led.png',
     isFeatured: false,
     description: 'Contemporary square geometric design with crystal accents. (Model: 8317-6+2RGD)'
   },
@@ -66,7 +66,7 @@ export const MOCK_PRODUCTS: Product[] = [
     name: 'Circular Leaf LED Chandelier',
     category: 'chandeliers',
     price: 12500,
-    image: '/chandelier-round-led.png',
+    image: 'images/chandelier-round-led.png',
     isFeatured: false,
     description: 'Stunning circular arrangement with leaf motifs. (Model: 805/8+4 RGD)'
   },
@@ -102,7 +102,7 @@ export const MOCK_PRODUCTS: Product[] = [
     name: 'LED Spot Bulb',
     category: 'led-lighting',
     price: 850,
-    image: '/led-product-2.png',
+    image: 'images/led-product-2.png',
     isFeatured: false,
     description: 'Focused beam LED spotlight for accent lighting.'
   },
@@ -111,7 +111,7 @@ export const MOCK_PRODUCTS: Product[] = [
     name: 'Flood Light',
     category: 'led-lighting',
     price: 3500,
-    image: '/led-product-3.png',
+    image: 'images/led-product-3.png',
     isFeatured: true,
     description: 'High-power flood light for outdoor security and illumination.'
   },
@@ -120,7 +120,7 @@ export const MOCK_PRODUCTS: Product[] = [
     name: 'Sealed Beam Lamps',
     category: 'automotive',
     price: 850,
-    image: '/sealed-beam-lamp.png',
+    image: 'images/sealed-beam-lamp.png',
     isFeatured: true,
     description: 'Durable automotive sealed beam lamps for all-weather visibility.'
   },
@@ -129,7 +129,7 @@ export const MOCK_PRODUCTS: Product[] = [
     name: 'Modern Gold Wall Sconce',
     category: 'led-lighting',
     price: 3400,
-    image: '/gold-wall-sconce.png',
+    image: 'images/gold-wall-sconce.png',
     isFeatured: false,
     description: 'Minimalist gold wall lamp for living rooms and corridors.'
   },
@@ -138,7 +138,7 @@ export const MOCK_PRODUCTS: Product[] = [
     name: 'Industrial Hanging Pendant',
     category: 'led-lighting',
     price: 4800,
-    image: '/industrial-hanging-pendant.png',
+    image: 'images/industrial-hanging-pendant.png',
     isFeatured: true,
     description: 'Matte black metal pendant light with vintage bulb.'
   },
@@ -147,7 +147,7 @@ export const MOCK_PRODUCTS: Product[] = [
     name: 'Cast Iron Double Flanged Pipe',
     category: 'pipes',
     price: 5600,
-    image: '/cast-iron-pipe.png',
+    image: 'images/cast-iron-pipe.png',
     isFeatured: true,
     description: 'Industrial grade double flanged CI pipes for robust plumbing.'
   },
@@ -156,7 +156,7 @@ export const MOCK_PRODUCTS: Product[] = [
     name: 'Insulated Fiber Optic Cable',
     category: 'cables',
     price: 3200,
-    image: '/fiber-optic-cable.png',
+    image: 'images/fiber-optic-cable.png',
     isFeatured: false,
     description: 'High-speed data transmission cable with premium insulation.'
   },
@@ -165,7 +165,7 @@ export const MOCK_PRODUCTS: Product[] = [
     name: 'Heavy Duty Copper Wiring',
     category: 'cables',
     price: 8500,
-    image: '/heavy-duty-copper-wiring.png',
+    image: 'images/heavy-duty-copper-wiring.png',
     isFeatured: true,
     description: 'Industrial grade multi-core copper wiring for large installations.'
   },
@@ -174,7 +174,7 @@ export const MOCK_PRODUCTS: Product[] = [
     name: 'Industrial UV Lamp',
     category: 'specialty-lamps',
     price: 2100,
-    image: '/industrial-uv-lamp.png',
+    image: 'images/industrial-uv-lamp.png',
     isFeatured: false,
     description: 'Germicidal and specialty UV lamps for industrial applications.'
   },
@@ -183,7 +183,7 @@ export const MOCK_PRODUCTS: Product[] = [
     name: 'Automotive LED Headlight',
     category: 'automotive',
     price: 1200,
-    image: '/automotive-led-headlight.png',
+    image: 'images/automotive-led-headlight.png',
     isFeatured: false,
     description: 'Bright LED headlight conversion kit for modern vehicles.'
   }

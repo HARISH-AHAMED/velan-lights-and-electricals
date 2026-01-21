@@ -118,7 +118,7 @@ export const Home: React.FC = () => {
                         <div className="hidden lg:block relative">
                             <ScrollReveal animation="scale-up" duration={1500}>
                                 <img
-                                    src={theme === 'dark' ? "/hero-final-v2.jpg" : "/hero-light.jpg"}
+                                    src={theme === 'dark' ? "images/hero-final-v2.jpg" : "images/hero-light.jpg"}
                                     alt="Elegant Crystal Chandelier"
                                     className={`relative z-10 w-full h-auto object-contain ${theme === 'dark' ? 'drop-shadow-2xl' : ''}`}
                                 />
@@ -347,7 +347,7 @@ export const Home: React.FC = () => {
             <section className="py-24 relative overflow-hidden">
                 <div className="absolute inset-0">
                     <img
-                        src="/cta-bg.png"
+                        src="images/cta-bg.png"
                         alt="Background"
                         className="w-full h-full object-cover"
                     />
